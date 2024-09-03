@@ -1,6 +1,7 @@
 Для запуска проекта потребуется ASP.NET 8, React.JS, PostgreSQL<br />
 В папке с backend проектом, в файле appsettings.json, в строке "Database" нужно заменить строку подключения к PostgreSQL.<br />Возможно, также потребуется подправить порт frontend приложения в строке "Frontend".
 <br />
+<br />
 Пример:<br />
 "Database": "Server=localhost;Port=5432;Database=orders_db;User Id=postgres;Password=123456;",<br />
 "Frontend": "http://localhost:5173"<br />

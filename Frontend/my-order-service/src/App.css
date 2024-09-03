@@ -1,0 +1,26 @@
+.my-form {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.my-list-order {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 225px;
+}
+
+.my-order {
+    border: 2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.my-order-details {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.my-label {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
